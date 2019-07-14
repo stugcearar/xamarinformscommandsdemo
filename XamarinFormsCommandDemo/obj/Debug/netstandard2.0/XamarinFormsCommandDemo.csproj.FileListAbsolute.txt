@@ -1,0 +1,14 @@
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/bin/Debug/netstandard2.0/XamarinFormsCommandDemo.deps.json
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/bin/Debug/netstandard2.0/XamarinFormsCommandDemo.dll
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/bin/Debug/netstandard2.0/ref/XamarinFormsCommandDemo.dll
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/bin/Debug/netstandard2.0/XamarinFormsCommandDemo.pdb
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/obj/Debug/netstandard2.0/XamarinFormsCommandDemo.csprojAssemblyReference.cache
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/obj/Debug/netstandard2.0/XamarinFormsCommandDemo.csproj.CoreCompileInputs.cache
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/obj/Debug/netstandard2.0/XamarinFormsCommandDemo.AssemblyInfoInputs.cache
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/obj/Debug/netstandard2.0/XamarinFormsCommandDemo.AssemblyInfo.cs
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/obj/Debug/netstandard2.0/XamarinFormsCommandDemo.dll
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/obj/Debug/netstandard2.0/ref/XamarinFormsCommandDemo.dll
+/Users/tugcearar/Projects/XamarinFormsCommandDemo/XamarinFormsCommandDemo/obj/Debug/netstandard2.0/XamarinFormsCommandDemo.pdb
